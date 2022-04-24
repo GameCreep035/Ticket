@@ -1,0 +1,7 @@
+discord.py
+pystyle
+discord-py-slash-command
+asyncio
+json
+random
+datetime
